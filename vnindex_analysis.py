@@ -1,5 +1,5 @@
 # Vietnam Stock Market Analysis - VN-Index
-# Author: [BenDTA]
+# Author: Nguyen Vu Truong Phuc
 
 import pandas as pd
 import matplotlib.pyplot as plt

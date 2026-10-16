@@ -1,7 +1,7 @@
 # 📈 Vietnam Stock Market Analysis — VN-Index
 
 Exploratory Data Analysis (EDA) on Vietnam's VN-Index stock market data
-from 2019 to 2024, using Python and the vnstock library.
+from 2020 to 2024, using Python and the vnstock library.
 
 ---
 
@@ -55,7 +55,7 @@ python vnindex_analysis.py
 
 - **Library:** [vnstock](https://github.com/thinh-vu/vnstock) — free Vietnam stock data
 - **Symbol:** VNINDEX
-- **Period:** 2019–2024 | **Records:** 1,307 trading days
+- **Period:** 2020–2024 | **Records:** 1,307 trading days
 
 ---
 
